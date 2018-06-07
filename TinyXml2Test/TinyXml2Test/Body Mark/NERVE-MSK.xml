@@ -1,0 +1,17 @@
+<preset>
+    <bodymark>
+        <element default="1" column="1" filename="MSK/MSK1.bmp" page="1" row="1">MSK1</element>
+        <element default="0" column="2" filename="MSK/MSK2.bmp" page="1" row="1">MSK2</element>
+        <element default="0" column="3" filename="MSK/MSK3.bmp" page="1" row="1">MSK3</element>
+        <element default="0" column="4" filename="MSK/MSK4.bmp" page="1" row="1">MSK4</element>
+        <element default="0" column="5" filename="MSK/MSK7.bmp" page="1" row="1">MSK7</element>
+        <element default="0" column="1" filename="MSK/MSK8.bmp" page="1" row="2">MSK8</element>
+        <element default="0" column="2" filename="MSK/MSK11.bmp" page="1" row="2">MSK11</element>
+        <element default="0" column="3" filename="MSK/MSK12.bmp" page="1" row="2">MSK12</element>
+        <element default="0" column="4" filename="Nerve/NerveBlock1.bmp" page="1" row="2">NerveBlock1</element>
+        <element default="0" column="5" filename="SMP/Smallparts1.bmp" page="1" row="2">Smallparts1</element>
+        <element default="0" column="1" filename="SMP/Smallparts2.bmp" page="1" row="3">Smallparts2</element>
+        <element default="0" column="2" filename="SMP/Smallparts3.bmp" page="1" row="3">Smallparts3</element>
+        <element default="0" column="3" filename="ABD/Abd2.bmp" page="1" row="3">Abd2</element>
+    </bodymark>
+</preset>

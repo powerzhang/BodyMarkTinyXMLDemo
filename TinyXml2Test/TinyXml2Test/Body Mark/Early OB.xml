@@ -1,0 +1,8 @@
+<preset>
+    <bodymark>
+        <element default="1" page="1" filename="OB/Ob26.bmp" column="1" row="1">Ob26</element>
+        <element default="0" page="1" filename="OB/Ob27.bmp" column="2" row="1">Ob27</element>
+        <element default="0" page="1" filename="OB/Ob30.bmp" column="3" row="1">Ob30</element>
+        <element default="0" page="1" filename="OB/Ob31.bmp" column="4" row="1">Ob31</element>
+    </bodymark>
+</preset>

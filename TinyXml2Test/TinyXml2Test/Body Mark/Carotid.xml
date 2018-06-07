@@ -1,0 +1,8 @@
+<preset>
+    <bodymark>
+        <element filename="SMP/Smallparts3.bmp" page="1" column="4" row="1" default="0">Smallparts3</element>
+        <element filename="VAS/Vascular9.bmp" page="1" column="1" row="1" default="1">Vascular9</element>
+        <element filename="SMP/Smallparts2.bmp" page="1" column="3" row="1" default="0">Smallparts2</element>
+        <element filename="VAS/Vascular10.bmp" page="1" column="2" row="1" default="0">Vascular10</element>
+    </bodymark>
+</preset>

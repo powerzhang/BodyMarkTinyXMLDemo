@@ -1,0 +1,13 @@
+<preset>
+    <bodymark>
+        <element default="1" column="1" filename="SMP/Smallparts9.bmp" page="1" row="1">Smallparts9</element>
+        <element default="0" column="2" filename="SMP/Smallparts10.bmp" page="1" row="1">Smallparts10</element>
+        <element default="0" column="3" filename="SMP/Smallparts11.bmp" page="1" row="1">Smallparts11</element>
+        <element default="0" column="4" filename="SMP/Smallparts12.bmp" page="1" row="1">Smallparts12</element>
+        <element default="0" column="5" filename="SMP/Smallparts13.bmp" page="1" row="1">Smallparts13</element>
+        <element default="0" column="1" filename="SMP/Smallparts14.bmp" page="1" row="2">Smallparts14</element>
+        <element default="0" column="2" filename="SMP/Smallparts15.bmp" page="1" row="2">Smallparts15</element>
+        <element default="0" column="3" filename="SMP/Smallparts16.bmp" page="1" row="2">Smallparts16</element>
+        <element default="0" column="4" filename="SMP/Smallparts17.bmp" page="1" row="2">Smallparts17</element>
+    </bodymark>
+</preset>

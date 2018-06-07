@@ -1,0 +1,17 @@
+<Preset>
+	<packagePreset>
+		<package type="factory">ABD</package>
+		<package type="factory">Breast</package>
+	        <package type="factory">Cardiac</package>
+	        <package type="factory">Carotid</package>
+		<package type="factory">Cranial</package>
+		<package type="factory">NERVE-MSK</package>
+		<package type="factory">OB</package>
+		<package type="factory">Early OB</package>
+		<package type="factory">Testis</package>
+		<package type="factory">Thyroid</package>
+		<package type="factory">Vascular</package>
+		<package type="factory">Urology</package>
+		<package type="factory">Lung</package>
+	</packagePreset>
+</Preset>

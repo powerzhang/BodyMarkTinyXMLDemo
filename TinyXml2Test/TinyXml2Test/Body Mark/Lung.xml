@@ -1,0 +1,6 @@
+<preset>
+    <bodymark>
+        <element page="1" column="1" row="1" default="1" filename="ABD/Abd1.bmp">Abd1</element>
+        <element page="1" column="2" row="1" default="0" filename="SMP/Smallparts5.bmp">Smallparts5</element>
+    </bodymark>
+</preset>

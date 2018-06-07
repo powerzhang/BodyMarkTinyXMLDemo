@@ -1,0 +1,10 @@
+<preset>
+    <bodymark>
+        <element default="1" page="1" filename="URO/Urology9.bmp" column="1" row="1">Urology9</element>
+        <element default="0" page="1" filename="URO/Urology11.bmp" column="2" row="1">Urology11</element>
+        <element default="0" page="1" filename="URO/Urology13.bmp" column="3" row="1">Urology13</element>
+        <element default="0" page="1" filename="URO/Urology16.bmp" column="4" row="1">Urology16</element>
+        <element default="0" page="1" filename="URO/Urology17.bmp" column="5" row="1">Urology17</element>
+        <element default="0" page="1" filename="URO/Urology18.bmp" column="1" row="2">Urology18</element>
+    </bodymark>
+</preset>

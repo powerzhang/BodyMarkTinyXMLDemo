@@ -1,0 +1,10 @@
+<preset>
+    <bodymark>
+        <element filename="ABD/Abd5.bmp" default="0" page="1" row="2" column="1">Abd5</element>
+        <element filename="ABD/Abd9.bmp" default="0" page="1" row="1" column="5">Abd9</element>
+        <element filename="ABD/Abd4.bmp" default="0" page="1" row="1" column="4">Abd4</element>
+        <element filename="ABD/Abd3.bmp" default="0" page="1" row="1" column="3">Abd3</element>
+        <element filename="ABD/Abd2.bmp" default="0" page="1" row="1" column="2">Abd2</element>
+        <element filename="ABD/Abd1.bmp" default="1" page="1" row="1" column="1">Abd1</element>
+    </bodymark>
+</preset>

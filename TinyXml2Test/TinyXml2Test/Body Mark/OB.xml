@@ -1,0 +1,13 @@
+<preset>
+    <bodymark>
+        <element filename="OB/Ob8.bmp" page="1" column="1" row="2" default="0">Ob8</element>
+        <element filename="OB/Ob10.bmp" page="1" column="4" row="1" default="0">Ob10</element>
+        <element filename="OB/Ob9.bmp" page="1" column="2" row="2" default="0">Ob9</element>
+        <element filename="OB/Ob6.bmp" page="1" column="3" row="2" default="0">Ob6</element>
+        <element filename="OB/Ob7.bmp" page="1" column="4" row="2" default="0">Ob7</element>
+        <element filename="OB/Ob11.bmp" page="1" column="5" row="1" default="0">Ob11</element>
+        <element filename="ABD/Abd8.bmp" page="1" column="1" row="1" default="1">Abd8</element>
+        <element filename="OB/Ob5.bmp" page="1" column="3" row="1" default="0">Ob5</element>
+        <element filename="OB/Ob2.bmp" page="1" column="2" row="1" default="0">Ob2</element>
+    </bodymark>
+</preset>

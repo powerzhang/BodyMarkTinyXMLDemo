@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DBUSER>
+    <User Name=”A1” Password =”123456”>
+		<Gender>F</Gender>
+		<Mobile >110</ Mobile>
+		<Email >121212@qq.com</ Email >
+	</User>
+	<User Name=”B1” Password =”123456”>
+		<Gender>M</Gender>
+		<Mobile >120</ Mobile>
+		<Email >121212@qq.com</ Email >
+	</User>
+
+<DBUSER>

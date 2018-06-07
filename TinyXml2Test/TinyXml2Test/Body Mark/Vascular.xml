@@ -1,0 +1,10 @@
+<preset>
+    <bodymark>
+        <element default="1" page="1" filename="VAS/Vascular1.bmp" column="1" row="1">Vascular1</element>
+        <element default="0" page="1" filename="VAS/Vascular2.bmp" column="2" row="1">Vascular2</element>
+        <element default="0" page="1" filename="VAS/Vascular5.bmp" column="3" row="1">Vascular5</element>
+        <element default="0" page="1" filename="VAS/Vascular6.bmp" column="4" row="1">Vascular6</element>
+        <element default="0" page="1" filename="VAS/Vascular7.bmp" column="5" row="1">Vascular7</element>
+        <element default="0" page="1" filename="VAS/Vascular8.bmp" column="1" row="2">Vascular8</element>
+    </bodymark>
+</preset>

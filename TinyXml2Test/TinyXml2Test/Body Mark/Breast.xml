@@ -1,0 +1,7 @@
+<preset>
+    <bodymark>
+        <element filename="SMP/Smallparts5.bmp" default="1" page="1" row="1" column="1">Smallparts5</element>
+        <element filename="SMP/Smallparts6.bmp" default="0" page="1" row="1" column="2">Smallparts6</element>
+        <element filename="SMP/Smallparts7.bmp" default="0" page="1" row="1" column="3">Smallparts7</element>
+    </bodymark>
+</preset>

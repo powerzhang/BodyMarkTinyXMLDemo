@@ -1,0 +1,9 @@
+<preset>
+    <bodymark>
+        <element row="1" column="5" page="1" filename="URO/Urology25.bmp" default="0">Urology25</element>
+        <element row="1" column="1" page="1" filename="URO/Urology21.bmp" default="1">Urology21</element>
+        <element row="1" column="2" page="1" filename="URO/Urology22.bmp" default="0">Urology22</element>
+        <element row="1" column="3" page="1" filename="URO/Urology23.bmp" default="0">Urology23</element>
+        <element row="1" column="4" page="1" filename="URO/Urology24.bmp" default="0">Urology24</element>
+    </bodymark>
+</preset>
